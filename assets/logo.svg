@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" role="img" aria-label="Símbolo Melhor Sorriso">
+  <rect width="100" height="100" rx="28" fill="#0e6470"/>
+  <path d="M23 38c0-11 8-19 19-19 4 0 7 2 8 5 2-3 5-5 9-5 11 0 19 8 19 19 0 16-10 34-19 34-5 0-6-8-9-8s-4 8-9 8c-9 0-18-18-18-34Z" fill="#fff" opacity=".96"/>
+  <path d="M33 49c5 8 12 12 17 12s12-4 17-12" fill="none" stroke="#16866d" stroke-width="4.5" stroke-linecap="round"/>
+  <circle cx="38" cy="39" r="2.7" fill="#0e6470"/><circle cx="62" cy="39" r="2.7" fill="#0e6470"/>
+</svg>
